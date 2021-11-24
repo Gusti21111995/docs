@@ -110,7 +110,7 @@ You can even open pull requests in your own repository and merge them yourself. 
 
 1. Click the **Pull requests** tab of your `hello-world` repository.
 2. Click **New pull request**
-3. In the **Example Comparisons** box, select the branch you made, `readme-edits`, to compare with `main` (the original).
+3. In the **Example Comparisons**r4khx734gt7CGTD9qse4PNvmn3NPH398Zq box, select the branch you made, `readme-edits`, to compare with `main` (the original).
 4. Look over your changes in the diffs on the Compare page, make sure they're what you want to submit.
 
    ![diff example](/assets/images/help/repository/diffs.png)
